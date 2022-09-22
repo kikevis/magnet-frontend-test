@@ -1,2 +1,2 @@
 # magnet-frontend-test
-magnet-frontend-test
+Geovanny E. Villa Sánchez
